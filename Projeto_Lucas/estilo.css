@@ -1,0 +1,88 @@
+.social {
+  color: #254E70;
+}
+
+.white {
+  color: #fcfcfcff;
+}
+
+.bell {
+  color: #FEC601;
+}
+
+.background {
+  background-color: #254E70;
+  width: 100%;
+}
+
+.background2 {
+  width: 100%;
+}
+
+.background3 {
+  width: 100%;
+  background-color: #254E70;
+}
+
+.bg-white {
+  background-color: #fcfcfcff;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-bottom: 0%;
+}
+
+.social:hover {
+  color: #FEC601;
+}
+
+.pd {
+  padding: 10%;
+}
+
+.pd2 {
+  padding: 16%;
+}
+
+.pd3 {
+  padding: 15.4%;
+}
+
+.is-70 {
+  width: 70%;
+}
+
+.is-100 {
+  width: 70%;
+}
+
+.main-w {
+  width: 200px;
+}
+
+.fixed {
+  position: fixed;
+  left: 0;
+  bottom: 2%;
+  width: 5rem;
+}
+
+.footer-color {
+  color: #FEC601;
+}
+
+.footer-color:hover {
+  color: #fcfcfcff;
+}
+
+.white:hover {
+  color: #FEC601;
+}
+
+.footer-height {
+  padding: 2%;
+}
+
+.footer-height {
+  padding: 1%;
+}
+/*# sourceMappingURL=estilo.css.map */
